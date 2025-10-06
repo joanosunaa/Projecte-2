@@ -34,4 +34,4 @@ L’objectiu és garantir la continuïtat del servei i protegir els equips davan
 - Elaboració d’un **informe professional justificat i documentat**.
 
 
-![SAI CAPTURA](/img/SAI%CAPTURA.png)
+![SAI CAPTURA](img/SAICAPTURA.png)
