@@ -14,7 +14,7 @@ A més de restablir la contrasenya, investigarem i aplicarem mesures per **forti
 - Documentar tot el procediment amb captures d’imatge i fonts consultades.
 
 
-## ✅ Procediment resum (passos mínims)
+## ✅ Procediment resum 
 1. Crear una VM i adjuntar-hi el **disc virtual** proporcionat.  
 2. Arrancar la VM i entrar en el menú del **GRUB**.  
 3. Utilitzar el mode de recuperació o editar la línia del kernel per obtenir accés a un `root shell`.  
