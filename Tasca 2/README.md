@@ -20,7 +20,7 @@ L’objectiu és garantir la continuïtat del servei i protegir els equips davan
 
 
 ## 🔗 Accés directe a la solució
-👉 [Clica aquí per veure l’arxiu de solució](./solucio.d)
+👉 [Clica aquí per veure l’arxiu de solució](./solucio.md)
 
 
 ## 📚 Material de suport
