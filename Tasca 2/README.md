@@ -32,3 +32,6 @@ L’objectiu és garantir la continuïtat del servei i protegir els equips davan
 - Capacitat de **planificació i càlcul tècnic**.  
 - Ús d’eines digitals per a la **documentació i comparativa tècnica**.  
 - Elaboració d’un **informe professional justificat i documentat**.
+
+
+![SAI CAPTURA](/img/SAI%CAPTURA.png)
