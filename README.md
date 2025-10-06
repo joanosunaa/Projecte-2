@@ -1,7 +1,7 @@
 🌐 Projecte: Consultoria EverPia
 - Objectiu: Simular el treball d’una consultora   IT on els alumnes actuem com a consultors , resolent encàrrecs de clients i treballant amb Kanban i GitHub per organitzar-se de manera professional.
 
-     -Les activitats inclouen:
+-Les activitats inclouen:
 
  -Creació d’un tauler Kanban per organitzar el treball.
 
