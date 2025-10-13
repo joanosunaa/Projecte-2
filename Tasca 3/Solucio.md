@@ -60,10 +60,10 @@ Ara per editar l’arxiu hem d’entrar amb aquesta comanda:
 sudo nano /etc/grub.d/40_custom
 ```
 Un cop aquí, hem d’afegir les següents línies.
-
+```
 set superusers="miquel"
 grub.pbkdf2.sha512.10000.A1B2C3D4E5F60718293A4B5C6D7E8F9A0B1C2D3E4F5061728394A5B6C7D8E9F0A1B2C3D4E5F67A8B9C0D1E2F3A4B5C6D7E8F9A0B1C2D3E4F5A6B7C8D9E0F1A2B3C4D5E6F7A8B9C0
-
+```
 Per últim, actualitzem el GRUB:
 ```
 sudo update-grub
