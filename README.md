@@ -1,38 +1,37 @@
-🌐 Projecte: Consultoria EverPia
+# 🌐 Projecte: Consultoria **EverPia**
 
-- Objectiu: Simular el treball d’una consultora   IT on els alumnes actuem com a consultors , resolent encàrrecs de clients i treballant amb Kanban i GitHub per organitzar-se de manera professional.
+## 🎯 Objectiu
+Simular el treball d’una **consultora IT**, on els alumnes actuem com a **consultors**, resolent encàrrecs de clients i treballant amb **Kanban** i **GitHub** per organitzar-nos de manera professional.
 
--Les activitats inclouen:
+## 🧩 Activitats incloses
 
- -Creació d’un tauler Kanban per organitzar el treball.
+- 📋 **Creació d’un tauler Kanban** per organitzar el treball.  
+- 🧠 **Ús de Git i GitHub** per al control de versions i documentació.  
+- ⚡ **Tria d’un sistema SAI (sistema d’alimentació ininterrompuda)** per protegir equips.  
+- 🔐 **Recuperació d’accés a sistemes bloquejats** aplicant mesures de seguretat.  
+- 💻 **Instal·lació i configuració d’un servidor Linux** amb serveis essencials.  
+- 🌍 **Estudi teòric i pràctic del servei DHCP.**  
+- 🌱 **Desenvolupament d’una idea de negoci sostenible.**  
+- 🌐 **Assessorament sobre dominis i hostings web per a clients.**  
+- 🏗️ **Creació d’un lloc web en un hosting gratuït** i gestió del contingut.  
+- 📝 **Elaboració de documentació tècnica amb Markdown.**  
+- ⚙️ **Instal·lació i configuració de WordPress en local.**
 
--Ús de Git i GitHub per al control de versions i documentació.
+## 📦 Productes finals
 
--Tria d’un sistema d’alimentació ininterrompuda (SAI) per protegir equips.
+- ✅ **El tauler Kanban** i el **compte de GitHub personal.**  
+- 📚 **La documentació tècnica** publicada al repositori.  
+- 💬 **La presentació professional del hosting** davant del client.
 
--Recuperació de l’accés a sistemes bloquejats aplicant mesures de seguretat.
+## 💡 Conclusions
 
--Instal·lació i conguració d’un servidor Linux amb serveis essencials.
+En conjunt, **EverPia** combina competències tècniques i professionals com:
 
--Estudi teòric i pràctic del servei DHCP.
+- 🧭 La planificació  
+- 🤝 El treball en equip  
+- 🌱 La sostenibilitat  
+- 💬 La comunicació digital  
 
--Desenvolupament d’una idea de negoci sostenible.
+Tot plegat per **preparar els alumnes per al món laboral real**.
 
--Assessorament sobre dominis i hostings web per a clients.
-
--Creació d’un lloc a un hosting gratuït i gestió del contingut.
-
- -Elaboració de documentació tècnica amb Markdown.
-
--Instal·lació i configuració de WordPress en local.
-
--Els productes finals són:
-
--El tauler Kanban i el compte de GitHub personal.
-
--La documentació tècnica al repositori.
-
--La presentació professional del hosting davant del client.
-
-En conjunt, EverPia combina competències tècniques i professionals com la planificació, el treball en equip, la sostenibilitat i la comunicació digital per preparar els alumnes per al món laboral.
 
