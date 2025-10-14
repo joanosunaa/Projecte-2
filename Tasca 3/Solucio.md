@@ -73,7 +73,7 @@ Un cop hem actualitzat fem un:
 ```
 sudo re
 ```
-![Captura8](img/Capt8p.png)
+![Captura8](img/Capt8.png)
 
 Un cop fet tot aixó reinciem la Màquina Virtual, intenem entrar al GRUB i ens demanara el nom de l'usuari i contrasenya.
 
