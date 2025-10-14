@@ -30,7 +30,7 @@ A més de restablir la contrasenya, investigarem i aplicarem mesures per **forti
 
 
 ## 🔗 Accés directe a la solució
-👉 [Clica aquí per veure l’arxiu de solució](./solucio.d)
+👉 [Clica aquí per veure l’arxiu de solució](./solucio.md)
 
 
 ## 📚 Material de suport i referències
