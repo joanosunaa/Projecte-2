@@ -14,7 +14,7 @@ Un cop haguem entrat a la màquina virtual trobarem que no podem accedir ja que 
 ## 🔁 Entrar en mode recovery (GRUB)
 Ara hem de reiniciar la màquina i, mentre està iniciant-se, hem de fer `Shift` + una tecla qualsevol. Un cop haguem pressionat aquestes tecles s’obrirà un menú el qual hem de pressionar **Advanced options for Ubuntu**; després de pressionar aquesta opció ens sortirà aquest menú i hem de triar la **segona opció**.
 
-![Captura3](img/capt3.png)
+![Captura3](img/Capt3.png)
 
 Un cop hem triat la segona opció s’obrirà un altre menú en el qual hem de triar l'opció **root**.
 
