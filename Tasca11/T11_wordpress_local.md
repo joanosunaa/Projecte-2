@@ -80,9 +80,9 @@ M’ha agradat molt l’escena final, on Zoro promet seguir el seu somni.
 - **Pàgina inicial:** mostra una pàgina estàtica  
   - Pàgina d’inici: *Benvinguts al meu web personal*  
   - Pàgina d’entrades: *Blog*
+    
 
-### ⚙️ Configuració → Enllaços permanents
-- Format seleccionat: **Nom de l’entrada** (més net i fàcil de llegir)
+![capt3](img/capt3.png)
 
 ### 🎨 Aparença → Menús
 Menú principal amb les opcions:
