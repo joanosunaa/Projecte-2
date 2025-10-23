@@ -66,6 +66,8 @@ M’ha agradat molt l’escena final, on Zoro promet seguir el seu somni.
  És un personatge molt diferent dels altres: astuta, ràpida i amb un passat secret.  
  Aquest episodi m’ha agradat perquè mostra que no tots els pirates són iguals i que cadascú té motius propis per navegar.  
 
+ ![capt2](img/capt2)
+
 ## ⚙️ Ajustaments configurats
 
 ### ⚙️ Configuració → General
