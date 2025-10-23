@@ -3,7 +3,6 @@
 
 
 ## 📸 Captures de pantalla del procés
-*(Afegeix les teves imatges del procés fet amb WP Local)*
 
 1. Creació del lloc a **WP Local**  
 2. Accés al **tauler de WordPress (Dashboard)**  
@@ -11,6 +10,7 @@
 4. Pàgina **"Les meves mascotes"**  
 5. Pàgina **"Blog"** amb les tres entrades publicades  
 6. Pàgina **"Contacte"**
+   
 
 ## 🧩 Diferència entre pàgines i entrades
 
@@ -45,6 +45,7 @@ Aquesta pàgina no té contingut directe — és on WordPress mostrarà automàt
 ### 💬 Pàgina 4: *Contacte*
 > Si vols contactar amb mi per parlar de sèries, tecnologia o gats, pots escriure’m a través del formulari de contacte o deixar un comentari a qualsevol entrada del blog.  
 > M’encantarà llegir-te!
+
 
 
 ## ✍️ Entrades del blog
