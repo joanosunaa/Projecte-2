@@ -25,9 +25,9 @@
 ## 📝 Pàgines creades
 
 ### 🏠 Pàgina 1: *Benvinguts al meu web personal*
-> Hola! Em dic Joan i actualment estic estudiant el cicle formatiu de Sistemes Microinformàtics i Xarxes.  
-> M’apassiona la tecnologia, els videojocs i la informàtica. Aquest curs espero aprendre molt sobre administració de xarxes, seguretat informàtica i creació de llocs web.  
-> Aquest és el meu primer web creat amb WordPress i m’encanta el resultat!
+Hola! Em dic Joan i actualment estic estudiant el cicle formatiu de Sistemes Microinformàtics i Xarxes.  
+M’apassiona la tecnologia, els videojocs i la informàtica. Aquest curs espero aprendre molt sobre administració de xarxes, seguretat informàtica i creació de llocs web.  
+Aquest és el meu primer web creat amb WordPress i m’encanta el resultat!
 
 
 ### 🐾 Pàgina 2: *Les meves mascotes*
