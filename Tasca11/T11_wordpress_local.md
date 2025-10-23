@@ -66,10 +66,5 @@ M’ha agradat molt l’escena final, on Zoro promet seguir el seu somni.
 
 ![capt3](img/capt3.png)
 
-### 🎨 Aparença → Menús
-Menú principal amb les opcions:
-- 🏠 Inici  
-- 🐾 Les meves mascotes  
-- 📰 Blog  
-- 💬 Contacte
+
 
