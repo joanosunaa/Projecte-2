@@ -50,27 +50,21 @@ Aquesta pàgina no té contingut directe — és on WordPress mostrarà automàt
 ## ✍️ Entrades del blog
 
 ### 🏴‍☠️ Opinió sobre una sèrie - Capítol 1: *One Piece*
-> En aquest primer capítol coneixem en **Monkey D. Luffy**, un noi amb el somni de convertir-se en el Rei dels Pirates.  
-> El que més m’agrada és el seu esperit positiu i la seva valentia. A més, el disseny dels personatges i l’humor fan que sigui un inici molt entretingut.  
-> La combinació d’aventura i humor fa que t’atrapi des del primer moment.  
-> *(Imatge destacada: Luffy somrient amb el barret de palla)*  
-> **Categoria:** Anime | **Etiquetes:** One Piece, Capítol 1, Opinió
-
+En aquest primer capítol coneixem en **Monkey D. Luffy**, un noi amb el somni de convertir-se en el Rei dels Pirates.  
+El que més m’agrada és el seu esperit positiu i la seva valentia. A més, el disseny dels personatges i l’humor fan que sigui un inici molt entretingut.  
+La combinació d’aventura i humor fa que t’atrapi des del primer moment.  
+ 
 
 ### ⚓ Opinió sobre una sèrie - Capítol 2: *El primer tripulant*
-> En aquest capítol apareix **Roronoa Zoro**, un espadatxí increïble que s’uneix a Luffy després d’un combat èpic.  
-> La història mostra com la confiança i l’amistat són claus en la tripulació.  
-> M’ha agradat molt l’escena final, on Zoro promet seguir el seu somni.  
-> *(Imatge destacada: Zoro amb les seves tres espases)*  
-> **Categoria:** Anime | **Etiquetes:** One Piece, Capítol 2, Zoro
+En aquest capítol apareix **Roronoa Zoro**, un espadatxí increïble que s’uneix a Luffy després d’un combat èpic.  
+La història mostra com la confiança i l’amistat són claus en la tripulació.  
+M’ha agradat molt l’escena final, on Zoro promet seguir el seu somni.  
 
 
 ### 🏴 Opinió sobre una sèrie - Capítol 3: *Nami, la lladre misteriosa*
-> La introducció de **Nami** afegeix misteri i intel·ligència a la història.  
-> És un personatge molt diferent dels altres: astuta, ràpida i amb un passat secret.  
-> Aquest episodi m’ha agradat perquè mostra que no tots els pirates són iguals i que cadascú té motius propis per navegar.  
-> *(Imatge destacada: Nami amb el mapa del Grand Line)*  
-> **Categoria:** Anime | **Etiquetes:** One Piece, Capítol 3, Nami
+ La introducció de **Nami** afegeix misteri i intel·ligència a la història.  
+ És un personatge molt diferent dels altres: astuta, ràpida i amb un passat secret.  
+ Aquest episodi m’ha agradat perquè mostra que no tots els pirates són iguals i que cadascú té motius propis per navegar.  
 
 ## ⚙️ Ajustaments configurats
 
