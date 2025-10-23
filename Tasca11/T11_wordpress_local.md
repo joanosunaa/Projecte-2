@@ -31,11 +31,9 @@
 
 
 ### 🐾 Pàgina 2: *Les meves mascotes*
-> A casa tinc un gat anomenat *Pixel*. És molt curiós i li agrada dormir damunt del teclat mentre programo 😺.  
-> De vegades juga amb una pilota de paper com si fos un caçador professional.  
-> Si no tingués un gat, segur que tindria un Pokémon com *Eevee*, seria genial!
-
-*(Afegeix una imatge d’un gat o d’un Pokémon amb el bloc “Imatge”)*
+A casa tinc un gat anomenat *Pixel*. És molt curiós i li agrada dormir damunt del teclat mentre programo 😺.  
+De vegades juga amb una pilota de paper com si fos un caçador professional.  
+Si no tingués un gat, segur que tindria un Pokémon com *Eevee*, seria genial!
 
 
 ### 📰 Pàgina 3: *Blog*
@@ -43,8 +41,8 @@ Aquesta pàgina no té contingut directe — és on WordPress mostrarà automàt
 
 
 ### 💬 Pàgina 4: *Contacte*
-> Si vols contactar amb mi per parlar de sèries, tecnologia o gats, pots escriure’m a través del formulari de contacte o deixar un comentari a qualsevol entrada del blog.  
-> M’encantarà llegir-te!
+ Si vols contactar amb mi per parlar de sèries, tecnologia o gats, pots escriure’m a través del formulari de contacte o deixar un comentari a qualsevol entrada del blog.  
+ M’encantarà llegir-te!
 
 ![capt1](img/capt1.png)
 
