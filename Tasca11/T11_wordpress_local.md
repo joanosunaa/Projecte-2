@@ -35,7 +35,7 @@ Aquesta pàgina no té contingut directe — és on WordPress mostrarà automàt
 ![capt1](img/capt1.png)
 
 
-## ✍️ Entrades del blog
+##  Entrades del blog
 
 ###  Opinió sobre una sèrie - Capítol 1: *One Piece*
 En aquest primer capítol coneixem en **Monkey D. Luffy**, un noi amb el somni de convertir-se en el Rei dels Pirates.  
@@ -56,7 +56,7 @@ M’ha agradat molt l’escena final, on Zoro promet seguir el seu somni.
 
  ![capt2](img/capt2.png)
 
-## ⚙️ Ajustaments configurats
+## Ajustaments configurats
 
 ###  Configuració → Lectura
 - **Pàgina inicial:** mostra una pàgina estàtica  
